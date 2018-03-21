@@ -18,7 +18,7 @@ import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 
 /**
- * Created by dingwei on 2017/4/17.
+ * Created by zhangdadi on 2017/4/17.
  */
 
 public class BaseActivity extends RxAppCompatActivity {
