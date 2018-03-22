@@ -1,4 +1,4 @@
-package com.mchsdk.paysdk.retrofitutils.retrofit.converter.string;
+package com.mchsdk.paysdk.retrofitutils.retrofit;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Type;

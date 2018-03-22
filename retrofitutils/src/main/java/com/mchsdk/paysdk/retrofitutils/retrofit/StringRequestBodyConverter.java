@@ -1,4 +1,4 @@
-package com.mchsdk.paysdk.retrofitutils.retrofit.converter.string;
+package com.mchsdk.paysdk.retrofitutils.retrofit;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;
