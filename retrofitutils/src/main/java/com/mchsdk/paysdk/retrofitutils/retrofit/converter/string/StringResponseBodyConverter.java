@@ -6,7 +6,7 @@ import okhttp3.ResponseBody;
 import retrofit2.Converter;
 
 
-public final class StringResponseBodyConverter implements Converter<ResponseBody, String> {
+public class StringResponseBodyConverter implements Converter<ResponseBody, String> {
     @Override
     public String convert(ResponseBody value) throws IOException {
 

@@ -9,7 +9,7 @@ import retrofit2.Converter;
 import retrofit2.Retrofit;
 
 
-public final class StringConverterFactory extends Converter.Factory {
+public  class StringConverterFactory extends Converter.Factory {
 
     public static StringConverterFactory create() {
         return new StringConverterFactory();

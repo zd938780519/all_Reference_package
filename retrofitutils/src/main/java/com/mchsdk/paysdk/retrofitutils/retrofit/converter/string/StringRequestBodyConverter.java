@@ -16,7 +16,7 @@ import retrofit2.Converter;
  * <p>Created by Devin Sun on 2017/3/28.
  */
 
-public final class StringRequestBodyConverter implements Converter<String, RequestBody> {
+public  class StringRequestBodyConverter implements Converter<String, RequestBody> {
 
     private static final MediaType MEDIA_TYPE = MediaType.parse("application/json; charset=UTF-8");
     private static final Charset UTF_8 = Charset.forName("UTF-8");
