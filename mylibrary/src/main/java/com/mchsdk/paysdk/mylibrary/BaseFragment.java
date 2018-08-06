@@ -1,6 +1,7 @@
 package com.mchsdk.paysdk.mylibrary;
 
 import android.content.Context;
+import android.content.Intent;
 import android.widget.Toast;
 
 import com.trello.rxlifecycle2.components.support.RxFragment;
@@ -25,4 +26,10 @@ public class BaseFragment extends RxFragment {
     }
 
 
+    public void jumpToActivity(Context context, Class activity) {
+        Intent intent = new Intent(context, activity);
+        startActivity(intent);
+
+
+    }
 }
