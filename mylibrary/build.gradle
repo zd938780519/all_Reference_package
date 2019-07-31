@@ -48,8 +48,8 @@ dependencies {
     compile 'com.jakewharton:butterknife:8.5.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     compile 'org.greenrobot:eventbus:3.0.0'
-    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
-    compile 'com.scwang.smartrefresh:SmartRefreshHeader:1.0.3'
+//    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
+//    compile 'com.scwang.smartrefresh:SmartRefreshHeader:1.0.3'
     compile 'com.teprinciple:updateapputils:1.4'   //用于APP版本更新
     compile 'com.github.bumptech.glide:glide:3.7.0'
 }
