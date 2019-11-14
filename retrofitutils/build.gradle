@@ -44,6 +44,5 @@ dependencies {
     implementation 'com.trello.rxlifecycle2:rxlifecycle-android:2.0.1'
     // If you want pre-written Activities and Fragments you can subclass as providers
     implementation 'com.trello.rxlifecycle2:rxlifecycle-components:2.0.1'
-    implementation 'com.jakewharton:butterknife:8.5.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+
 }
