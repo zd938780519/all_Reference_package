@@ -307,4 +307,5 @@ class EyesKitKat {
             window.setNavigationBarColor(Color.TRANSPARENT);
         }
     }
+
 }
